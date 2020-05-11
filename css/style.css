@@ -7,6 +7,10 @@ body {
  }
  
  .menu {
+
+   padding: 5px; /*este trecho do cód por joaoacastro*/
+   border-radius: 50px;
+
    background-color: violet;
    text-style: none;
  }
