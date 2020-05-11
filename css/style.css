@@ -1,0 +1,36 @@
+body {
+   background: orchid;
+   color: white;
+   font-family: Ariel;
+   text-align: center;
+   text-shadow: gray 0.1em 0.1em 0.2em;
+ }
+ 
+ .menu {
+   background-color: violet;
+   text-style: none;
+ }
+ 
+ .menu li {
+   list-style: none;
+ }
+ 
+ .menu ul {
+   display: flex;
+   justify-content: space;
+ }
+ 
+ a {
+   color: white;
+   text-decoration: none;
+ }
+ 
+ a:hover {
+   color: lightgray;
+   text-decoration: underline;
+ }
+ 
+ .site-subtitle {
+   font-style: italic;
+   font-size: 20px;
+ }
